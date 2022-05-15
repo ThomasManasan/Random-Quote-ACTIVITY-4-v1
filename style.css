@@ -26,6 +26,7 @@ body{
    padding: 3% 0;
    background:rgb(26, 167, 167);
    color: #ffffff;
+   min-height: 25vh;
 
 }
 
