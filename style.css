@@ -1,0 +1,54 @@
+* {
+    scroll-behavior: smooth;
+}
+
+body{
+   
+  background:#e1efbb url('mountain.jpg')
+   	background:;
+    margin-top:18%;
+    font-family: 'Design', sans-serif;
+    text-align: center;
+    font-size:18px;
+    font-weight: bold;
+}
+
+.btn1{
+    
+   margin-top:15px;
+   justify-content: center;
+   
+}
+
+.footer{
+
+   margin-top:15%; 
+   padding: 3% 0;
+   background:rgb(26, 167, 167);
+   color: #ffffff;
+
+}
+
+@media (min-width: 1200px) {
+  .responsive-font-example {
+    font-size: 20px;
+  }
+}
+/* If the screen size is smaller than 1200px, set the font-size to 80px */
+@media (max-width: 1199.98px) {
+  .responsive-font-example {
+    font-size: 15px;
+  }
+}
+@media (min-width: 375px) {
+  .responsive-font-example {
+    font-size: 20px;
+  }
+}
+/* If the screen size is smaller than 1200px, set the font-size to 80px */
+@media (max-width: 667px) {
+  .responsive-font-example {
+    font-size: 15px;
+  }
+}
+
